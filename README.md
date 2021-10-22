@@ -1,4 +1,4 @@
-# Tutorial-Penggunaan-GitHub
+# Tutorial-Penggunaan-Git
 Berikut adalah langkah-langkah menggunakan GIT
 ## Buat Akun GitHub
 - Buka situs [GitHub](https://github.com/)
@@ -38,7 +38,7 @@ Berikut adalah langkah-langkah menggunakan GIT
 
 ## Git SCM
 - Buka situs [Git SCM](https://git-scm.com/downloads)
-- Lalu klik Doenload for Windows
+- Lalu klik Download for Windows
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/92939686/138486970-76396190-a929-4b6b-8fea-804fce3ac64c.png)
 
