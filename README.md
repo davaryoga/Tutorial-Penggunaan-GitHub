@@ -15,10 +15,14 @@ Berikut adalah langkah-langkah menggunakan GIT
 ## Buat Repository
 - Lalu setelah Sign Up sukses akan ditampilkan sepeti gambar berikut
 - Kemudian klik Create Repository untuk membaut reposiyory yang baru
+
 ![Screenshot (6)](https://user-images.githubusercontent.com/92939686/138469924-6ec2cc2a-23f3-493a-a698-a1b8d371508d.png)
+
 - Masukan nama Repository
 - Masukan Deskripsi (optional)
 - Ceklis Public 
 - Ceklis Add README File
 - Kemudian klik Create Repository
-![Screenshot (7)](https://user-images.githubusercontent.com/92939686/138470700-85ec27ae-f260-4d4e-b54f-fd3ba182c28c.png)
+
+![Screenshot (7)1](https://user-images.githubusercontent.com/92939686/138472028-23520921-818e-4f19-af39-236beec3d670.png)
+
